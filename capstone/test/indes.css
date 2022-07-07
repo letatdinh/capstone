@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+footer{
+    padding-top: 100px;
+}
+footer .container{
+    width: 70%;
+    margin: auto;
+}
+footer .container .content .content-top{
+    display: flex;
+}
+
+footer .container .content .content-top .content-left{
+    flex: 0 0 50%;
+}
+footer .container .content .content-top .content-right{
+    flex: 0 0 50%;
+}
+footer .container .content .content-top .content-right .content-row{
+   
+}
